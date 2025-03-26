@@ -1,0 +1,2 @@
+Hello, this is a test file from Azure Blob Storage.
+Fetching this file using Node.js.
